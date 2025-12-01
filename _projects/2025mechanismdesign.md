@@ -11,7 +11,6 @@ As part of a homework assignment, I had to design a mechanism given a 2D design 
 
 
 
-
 Considering the bar as rigid:
 - Objectives: Design a mechanism within the given design space and constraints to lift a heavy weight to the maximum possible height.
 - Static analysis:
