@@ -110,7 +110,6 @@ For MacOS, the recommended path is to install [`homebrew`](https://brew.sh/):
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
 and then Ruby:
 ```
 brew install ruby
