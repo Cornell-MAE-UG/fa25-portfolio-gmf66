@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Giana Fontanetta>
+title: Giana Fontanetta
 ---
 
 ## About Me
